@@ -1,0 +1,6 @@
+time="2023-02-22T11:08:01+05:00" level=info msg="Error in entreps strconv.ParseInt: parsing \"4500.45\": invalid syntax "
+time="2023-02-22T11:09:31+05:00" level=info msg="Error in entreps strconv.ParseInt: parsing \"4500.45\": invalid syntax "
+time="2023-02-22T11:10:49+05:00" level=info msg="Error in entreps strconv.ParseInt: parsing \"4500.45\": invalid syntax "
+time="2023-02-22T11:12:10+05:00" level=info msg="Error in entreps strconv.ParseInt: parsing \"4500.45\": invalid syntax "
+time="2023-02-22T11:17:49+05:00" level=info msg="Error in entreps strconv.ParseInt: parsing \"4500.45\": invalid syntax "
+time="2023-02-22T11:20:03+05:00" level=info msg="Error in entreps strconv.ParseInt: parsing \"4500.45\": invalid syntax "
